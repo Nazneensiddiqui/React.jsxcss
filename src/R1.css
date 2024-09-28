@@ -1,0 +1,51 @@
+body{
+    background-color: aqua;
+}
+
+#main4{
+    height: 400px;
+    width: 600px;
+    border: 5px solid red;
+    background-color: pink;
+    position: relative;
+    left: 400px;
+    border-radius: 50px;
+}
+
+#main1{
+    height: 200px;
+    width: 400px;
+    border: 5px solid green;
+    background-color: yellow;
+    position: relative;
+    left: 100px;
+    top: 100px;
+    border-radius: 30px;
+}
+
+#main2{
+    height: 70px;
+    width: 250px;
+    border: 5px solid blue;
+    background-color: lightblue;
+    position: relative;
+    left: 65px;
+    top: 55px;
+    border-radius: 20px;
+}
+
+#main3{
+    color: red;
+    align-items: center;
+}
+
+#para{
+    color: green;
+}
+
+#head{
+    color: blue;
+}
+.main{
+    color:red;
+}
